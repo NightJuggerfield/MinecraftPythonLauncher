@@ -1,0 +1,16 @@
+[08:35:36] [Client thread/INFO]: [CertJavaAgent] JRE trust store doesn't contain Cert{CN=ISRG Root X1,O=Internet Security Research Group,C=US,SHA-1:cabd2a79a1076a31f21d253635cb039d4329a5e8,SHA-256:96bcec06264976f37460779acf28c5a7cfe8a3c0aae11a8ffcee05c0bddf08c6}
+[08:35:36] [Client thread/INFO]: [CertJavaAgent] Will use updated KeyStore that includes missing certificates
+[08:35:36] [Client thread/INFO]: Setting user: 1131332
+[08:35:38] [Client thread/WARN]: Skipping bad option: lastServer:
+[08:35:38] [Client thread/INFO]: LWJGL Version: 2.9.4
+[08:35:39] [Client thread/INFO]: Reloading ResourceManager: Default
+[08:35:49] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[08:35:49] [Thread-3/INFO]: Initializing LWJGL OpenAL
+[08:35:49] [Thread-3/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[08:35:49] [Thread-3/INFO]: OpenAL initialized.
+[08:35:50] [Sound Library Loader/INFO]: Sound engine started
+[08:35:53] [Client thread/INFO]: Created: 1024x512 textures-atlas
+[08:35:55] [Client thread/INFO]: Narrator library for x64 successfully loaded
+[08:35:59] [Client thread/INFO]: Stopping!
+[08:35:59] [Client thread/INFO]: SoundSystem shutting down...
+[08:36:00] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
